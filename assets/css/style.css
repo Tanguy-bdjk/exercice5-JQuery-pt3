@@ -1,0 +1,4 @@
+* {padding:0; margin:0; font-size:1em; border:0}
+
+#zone {border:3px solid #007da0; margin:3em; height:150px; width:300px}
+#rebond {background:red; width:1em; height:1em; border-radius:20px}
